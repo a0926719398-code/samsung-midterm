@@ -1,0 +1,17 @@
+[
+  {
+    "model": "S26",
+    "name": "Samsung Galaxy S26",
+    "image": "s26.png"
+  },
+  {
+    "model": "S26-Plus",
+    "name": "Samsung Galaxy S26+",
+    "image": "s26-plus.png"
+  },
+  {
+    "model": "S26-Ultra",
+    "name": "Samsung Galaxy S26 Ultra",
+    "image": "s26-ultra.png"
+  }
+]
